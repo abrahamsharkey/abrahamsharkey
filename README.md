@@ -1,21 +1,20 @@
-# Hi, I'm Abraham
+![A student working with cloud systems](banner.png)
 
-Computer Science student interested in cloud computing, distributed systems and cloud security.
+## Hi, I'm Abraham
 
-## Currently
-- BSc Computer Science student
-- Learning cloud computing and cloud infrastructure
-- Building practical software projects
+I'm a Computer Science student interested in cloud computing, distributed systems and cloud security.
 
-## Projects
-- Q-Migrate
-- DueSoon
-- BMW Hams Hall Smart Digital Twin - factory logistics project
-- Multi-Branch Library System
+Currently learning cloud fundamentals through IBM SkillsBuild and developing Q-Migrate, my final-year project.
 
-## Technologies
-Java · Python · C# · JavaScript · SQL · Git · GitHub · Linux
+### Projects
 
-## Links
-- Portfolio: https://abrahamsharkey.github.io
-- LinkedIn: https://www.linkedin.com/in/abrahamsharkey/
+- **Q-Migrate** — a tool for assessing readiness for post-quantum cryptography migration.
+- **DueSoon** — an iOS app for keeping track of deadlines.
+- **BMW Hams Hall Smart Digital Twin** — a group project exploring asset tracking and factory logistics.
+- **Multi-Branch Library System** — a Java and SQL system for managing library loans across branches.
+
+### Technologies
+
+Java · Python · Swift · C# · JavaScript · SQL · Git · Linux
+
+[Portfolio](https://abrahamsharkey.github.io) · [LinkedIn](https://www.linkedin.com/in/abrahamsharkey/)
