@@ -1,4 +1,4 @@
-![A student working with cloud systems](banner.png)
+![A laptop and cloud illustration](banner.png)
 
 ## Hi, I'm Abraham
 
@@ -8,13 +8,15 @@ Currently learning cloud fundamentals through IBM SkillsBuild and developing Q-M
 
 ### Projects
 
-- **Q-Migrate** — a tool for assessing readiness for post-quantum cryptography migration.
-- **DueSoon** — an iOS app for keeping track of deadlines.
-- **BMW Hams Hall Smart Digital Twin** — a group project exploring asset tracking and factory logistics.
-- **Multi-Branch Library System** — a Java and SQL system for managing library loans across branches.
+- **Q-Migrate**: A tool for assessing readiness for post-quantum cryptography migration.
+- **DueSoon**: An iOS app for keeping track of deadlines.
+- **BMW Hams Hall Smart Digital Twin**: A group project exploring asset tracking and factory logistics.
+- **Multi-Branch Library System**: A Java and SQL system for managing library loans across branches.
 
-### Technologies
+### Technologies & skills
 
-Java · Python · Swift · C# · JavaScript · SQL · Git · Linux
+**Languages:** Python · Java · SQL · JavaScript · Swift
+
+**Development:** REST APIs · Linux · Git · SwiftUI
 
 [Portfolio](https://abrahamsharkey.github.io) · [LinkedIn](https://www.linkedin.com/in/abrahamsharkey/)
